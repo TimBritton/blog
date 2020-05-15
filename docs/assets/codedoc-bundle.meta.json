@@ -64,11 +64,6 @@
       "name": "postNavSearch",
       "filename": "/Users/timbritton/workspace/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
       "hash": "O7GN62hGHR8d3kapR8cdEQ=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/Users/timbritton/workspace/blog/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "CLt7prmodDWl8kNpoRr0aQ=="
     }
   ],
   "components": [
