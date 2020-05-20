@@ -1,7 +1,7 @@
 [Home](/)
 > :Collapse label=Articles
 >
-> [Kotlin DSL](/docs/kotlin-dsl.md)
+> [Kotlin DSL](/docs/kotlin-dsl)
 
 > :Collapse label=Socials
 >
