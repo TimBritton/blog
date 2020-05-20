@@ -10,8 +10,8 @@ export const config = /*#__PURE__*/configuration({
     namespace: '/blog',
     html: 'dist',
     assets: process.env.GITHUB_BUILD === 'true' ? 'dist' : '.',
-    bundle: process.env.GITHUB_BUILD === 'true' ? 'bundle' : 'dist/bundle',
-    styles: process.env.GITHUB_BUILD === 'true' ? 'styles' : 'dist/styles',
+    bundle: process.env.GITHUB_BUILD === 'true' ? 'bundle' : 'bundle',
+    styles: process.env.GITHUB_BUILD === 'true' ? 'styles' : 'styles',
   },
   page: {
     title: {
