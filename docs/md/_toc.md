@@ -2,7 +2,7 @@
 > :Collapse label=Articles
 >
 > [Kotlin DSL](/docs/kotlin-dsl)
-> [Full Stack Dart]](/docs/full-stack-dart)
+> [Full Stack Dart](/docs/full-stack-dart)
 
 > :Collapse label=Socials
 >
