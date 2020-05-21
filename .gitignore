@@ -1,2 +1,6 @@
 dist/
 .codedoc/node_modules/
+bundle/
+styles/
+docs/*.html
+docs/assets
