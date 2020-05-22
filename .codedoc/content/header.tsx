@@ -15,7 +15,7 @@ export function Header(config: CodedocConfig, renderer: any) {
         <br/><br/>
       </fragment>
       : ''}
-      <Watermark/>
+      {/* <Watermark/> */}
     </_Header>
   )
 }

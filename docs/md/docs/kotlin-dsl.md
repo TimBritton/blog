@@ -109,7 +109,7 @@ class Table<T>(val tableName: String) {
         val rando = (0..10000).random()
         return tableEntries.filter{
             return@filter (rando > it.first && rando < it.second)
-        }.first().third ?: error("Fucked")
+        }.first().third ?: error("Null when it shouldn't")
     }
 }
 ```
