@@ -8,10 +8,10 @@ export const config = /*#__PURE__*/configuration({
   theme,                                  // --> add the theme. modify `./theme.ts` for chaning the theme.
     dest: {
     namespace: '/blog',
-    // html: 'dist',
-    // assets: process.env.GITHUB_BUILD === 'true' ? 'dist' : '.',
-    // bundle: process.env.GITHUB_BUILD === 'true' ? 'bundle' : 'docs/assets',
-    // styles: process.env.GITHUB_BUILD === 'true' ? 'styles' : 'docs/assets',
+    html: 'dist',
+    assets: process.env.GITHUB_BUILD === 'true' ? 'dist' : '.',
+    bundle: process.env.GITHUB_BUILD === 'true' ? 'bundle' : 'docs/assets',
+    styles: process.env.GITHUB_BUILD === 'true' ? 'styles' : 'docs/assets',
   },
   page: {
     title: {
